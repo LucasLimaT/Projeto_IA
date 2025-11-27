@@ -1,0 +1,10 @@
+[project]
+name = "IA-FabLab"
+version = "1.0.0"
+description = "Projeto de gerenciamento de entrada e saida de pessoas no FabLab por meio de Inteligencia Artificial."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "opencv-python>=4.8",
+    "numpy>=1.26",
+]
